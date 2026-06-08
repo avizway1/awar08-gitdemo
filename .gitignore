@@ -1,0 +1,15 @@
+
+
+#JAR FIle
+*.jar
+
+#ignore backup
+[abc]*.bkp
+
+#ignore statefile
+terraform.tfstate
+
+#ignore any statefile
+*.tfstate
+
+
